@@ -1,0 +1,36 @@
+package com.itransition.appusercollection.entity.enums;
+
+public enum Permission {
+
+    ADD_ADMIN,
+    DELETE_ADMIN,
+
+    ADD_USER,
+    DELETE_USER,
+    EDIT_USER,
+    VIEW_ALL_USERS,
+    VIEW_USER,
+    ADD_COMMENT,
+    EDIT_COMMENT,
+    DELETE_COMMENT,
+    VIEW_ALL_COMMENTS,
+    VIEW_COMMENT,
+
+    ADD_ITEM,
+    EDIT_ITEM,
+    DELETE_ITEM,
+    VIEW_ALL_ITEMS,
+    VIEW_ITEM,
+    ADD_COLLECTION,
+    EDIT_COLLECTION,
+    DELETE_COLLECTION,
+    VIEW_ALL_COLLECTIONS,
+    VIEW_COLLECTION,
+
+    ADD_LIKE,
+    EDIT_LIKE,
+    DELETE_LIKE,
+    VIEW_ALL_LIKES,
+    VIEW_LIKE,
+
+}
